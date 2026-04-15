@@ -14,7 +14,6 @@ Essa funcionalidade é útil para tópicos de estado, como sensores que enviam l
 - Melhora a inicialização de novos clientes no sistema  
 - Pode causar inconsistências se a mensagem não for atualizada corretamente  
 
----
 
 ## Last Will and Testament (LWT)
 
