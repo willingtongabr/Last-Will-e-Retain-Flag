@@ -1,6 +1,6 @@
-### MQTT — Retain Flag e Last Will and Testament (LWT)
+## MQTT — Retain Flag e Last Will and Testament (LWT)
 
-### Retain Flag
+## Retain Flag
 
 No MQTT, uma mensagem com Retain Flag é uma mensagem especial que permanece registrada no broker mesmo após ter sido entregue aos clientes conectados no momento da publicação.
 
@@ -15,7 +15,7 @@ Essa funcionalidade é útil para tópicos de estado, como sensores que enviam l
 - Pode causar inconsistências se a mensagem não for atualizada corretamente  
 
 
-### Last Will and Testament (LWT)
+## Last Will and Testament (LWT)
 
 O Last Will and Testament (LWT) é um recurso do MQTT que permite ao cliente definir uma mensagem "de despedida" que será publicada pelo broker caso a conexão do cliente se encerre de forma inesperada.
 
